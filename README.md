@@ -1,6 +1,10 @@
 
 Sorting visualizer for mergesort, quicksort, shellsort, heapsort, bubble sort, selection sort and insertion sort.
 
+See it in action! https://kakashi4.github.io/Sorting-Visualizer/
+
+Some of the values are hardcoded so it might look kind of weird depending on your screen size.
+
 Requires Node and npm to run on computer. The next part of the readme is entirely written by create react app.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
