@@ -1,3 +1,8 @@
+
+Sorting visualizer for mergesort, quicksort, shellsort, heapsort, bubble sort, selection sort and insertion sort.
+
+Requires Node and npm to run on computer. The next part of the readme is entirely written by create react app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
